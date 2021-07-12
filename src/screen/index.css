@@ -1,0 +1,11 @@
+.faq-full-screen{
+    background:linear-gradient(hsl(273, 75%, 66%),hsl(240, 73%, 65%));
+    position: absolute;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
